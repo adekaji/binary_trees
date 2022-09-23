@@ -98,5 +98,6 @@ int successor(bst_t *node);
 int remove_type(bst_t *root);
 
 
+
 int btic_helper(const binary_tree_t *tree, size_t index, size_t size);
 #endif /* _BINARY_TREES_H_ */
